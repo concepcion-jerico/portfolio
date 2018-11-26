@@ -197,6 +197,10 @@ a > .fas:hover {
 
 }
 
+.btn-cap a {
+	text-decoration: none;
+	color: #f4f4f4;
+}
 
 
 
